@@ -1,1 +1,1 @@
-export const featureBranchToken = 'placeholder-clean-value';
+export const featureBranchToken = '0123456789ABCDEFA31a';
